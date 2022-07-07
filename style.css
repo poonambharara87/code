@@ -84,7 +84,7 @@
     min-height: 100vh;
     min-width: 100vw;
     overflow-x: hidden;
-    background-image: url(img/2.jpg);
+    background-image: url(2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-blend-mode: darken;
@@ -426,7 +426,7 @@
 
 /* -------------------------CONTACT PAGE START-------------------- */
 #part-1{
-    background-image: url(../img/seaLarge.jpg);
+    background-image: url(seaLarge.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 100vh;
